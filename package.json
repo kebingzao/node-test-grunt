@@ -1,0 +1,15 @@
+{
+  "name": "AirDroid",
+  "description": "Android Web Manager Tool",
+  "version": "2.0.0",
+  "homepage": "http://www.airdroid.com/",
+  "author": {
+    "name": "sand studio",
+    "email": "support@airdroid.com"
+  },
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.1.1"
+  },
+  "keywords": []
+}
