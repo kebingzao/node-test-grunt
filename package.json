@@ -1,11 +1,11 @@
 {
-  "name": "AirDroid",
-  "description": "Android Web Manager Tool",
+  "name": "grunt test",
+  "description": "grunt jshint test",
   "version": "2.0.0",
-  "homepage": "http://www.airdroid.com/",
+  "homepage": "",
   "author": {
-    "name": "sand studio",
-    "email": "support@airdroid.com"
+    "name": "kbz",
+    "email": "kebingzao@gmail.com"
   },
   "dependencies": {
     "grunt": "~0.4.2",
